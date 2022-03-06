@@ -147,7 +147,7 @@ int main()//main function
             case 5:  system("clear");
             printf("--------------------------------------------------------------------------------------------------");
             printf("\nProgram Session Terminated Successfully\n");
-            printf("\nProgram made by : \n>> Jayesh(094)\n>> Mukund(086)\n>> Pranav(079));
+            printf("\nProgram made by : \n>> Jayesh(094)\n>> Mukund(086)\n>> Pranav(079)");
              printf("--------------------------------------------------------------------------------------------------");
             exit(0);
             
